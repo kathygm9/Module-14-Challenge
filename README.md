@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the Belly Button Biodiversity Dashboard! This interactive tool allows you to explore fascinating insights from the Belly Button Biodiversity dataset, which catalogs the diverse microbes inhabiting human navels. Dive into the microbial world and uncover intriguing patterns within this unique ecosystem.
+This interactive tool allows you to explore insights from the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the diverse microbes inhabiting human navels. Dive into the microbial world and uncover intriguing patterns within this unique ecosystem.
 
 ## Features
 
